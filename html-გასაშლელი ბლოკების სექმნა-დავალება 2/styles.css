@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter/Inter-Bold.ttf);
+}
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter/Inter-Regular.ttf);
+}
+
+summary{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+p{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+a{
+    color: black;
+}
